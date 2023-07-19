@@ -1,5 +1,12 @@
 # day-scheduler
 
+# Links
+Deployed application:
+https://catcorbin.github.io/day-scheduler/
+
+Application repository:
+https://github.com/CatCorbin/day-scheduler
+
 ## Description
 
 This project is meant to display proficiency with jQuery and third party APIs. I worked with day.js and calander elements while also creating a style to complement them.
